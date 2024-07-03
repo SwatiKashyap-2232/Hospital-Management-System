@@ -57,4 +57,4 @@
 ## Technologies Used:
   - Frontend: React
   - Backend: Node.js, Express.js
-  - Database: MongoDB
+  - Database: MongoDB# Hospital-Management-System
